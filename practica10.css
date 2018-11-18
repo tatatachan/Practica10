@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color:indigo;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:200%
+}
+header{
+    background-color:teal
+    }
+    nav{
+        background-color: bisque
+    }
+    div{
+        text-align: center;
+        border: 3px;
+        position:absolute; top:200px;left:580px;
+        font-size: 200%;
+        color: orangered
+    
+    }
+    h3{
+        text-align: center
+    }
+    h3 {
+        width: 400px;
+        padding-left: 18px;
+        padding-right: 18px;
+        text-indent: -18px;
+        position:absolute; top:300px;left:550px;
+        border: 3px;
+        color: indigo
+   }
+    
